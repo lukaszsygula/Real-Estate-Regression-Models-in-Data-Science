@@ -35,4 +35,4 @@ The project uses data on real estate prices in King County, WA. The dataset incl
 
 ## Results Presentation
 
-The results presentation is available in the file `Real_Estate_Analysis_Presentation.pptx`. It includes a summary of the analysis results, visualizations, and recommendations.
+The results presentation is available in the file. It includes a summary of the analysis results, visualizations, and recommendations.
